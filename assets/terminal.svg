@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200" height="724" viewBox="0 0 1200 724"
      role="img" aria-labelledby="title desc">
-  <title id="title">thinkTanck — AI engineer: build, break, prove</title>
-  <desc id="desc">An animated terminal session. whoami returns: AI engineer, M.S. in AI Engineering at Johns Hopkins, in progress. Three shell variables are assigned from dev commands and printed: build from make and ship, break from fuzzing prod, prove from pytest with coverage — echoed as build, break, prove, the loop I live in. Then three commands, each a risky shortcut the tooling refuses: sudo trust default-allow is denied, trust nothing by default; git push force main is rejected, main is protected; deploy skip-tests is blocked, green CI or it doesn't ship. Then cat of the agent definition file prints its front matter — name: default-deny, description: trust nothing, protect main, green CI or it doesn't ship. Finally tail -f status.log streams a live status that cycles forever: ci green, main protected, tests passing.</desc>
+  <title id="title">thinkTanck - AI engineer: build, break, prove</title>
+  <desc id="desc">An animated terminal session. whoami returns: AI engineer, M.S. in AI Engineering at Johns Hopkins, in progress. Three shell variables are assigned from dev commands and printed: build from make and ship, break from fuzzing prod, prove from pytest with coverage, echoed as build, break, prove, the loop I live in. Then three commands, each a risky shortcut the tooling refuses: sudo trust default-allow is denied, trust nothing by default; git push force main is rejected, main is protected; deploy skip-tests is blocked, green CI or it doesn't ship. Then cat of the agent definition file prints its front matter - name: default-deny, description: trust nothing, protect main, green CI or it doesn't ship. Finally tail -f status.log streams a live status that cycles forever: ci green, main protected, tests passing.</desc>
 
   <!-- window -->
   <rect x="1" y="1" width="1198" height="722" rx="24" fill="#0a0a0a" stroke="#222222" stroke-width="2"/>
@@ -11,7 +11,7 @@
   <circle cx="66" cy="29" r="7" fill="#222222"/>
   <circle cx="92" cy="29" r="7" fill="#3fcf8e" opacity="0.6"/>
   <text x="600" y="35" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
-        font-size="16" fill="#666666">agent@thinkTanck &#8212; ~/</text>
+        font-size="16" fill="#666666">agent@thinkTanck: ~/</text>
 
   <defs>
     <clipPath id="c1"><rect x="296" y="72"  width="0" height="30"><animate attributeName="width" from="0" to="86"  begin="0.5s" dur="0.4s" fill="freeze"/></rect></clipPath>
@@ -28,12 +28,12 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
 
-    <!-- $ whoami — human identity (top bookend) -->
+    <!-- $ whoami - human identity (top bookend) -->
     <g opacity="0"><animate attributeName="opacity" to="1" begin="0.2s" dur="0.01s" fill="freeze"/>
       <text x="64" y="96"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c1)"><text x="300" y="96" fill="#ffffff">whoami</text></g>
     <g opacity="0"><animate attributeName="opacity" to="1" begin="1.0s" dur="0.01s" fill="freeze"/>
-      <text x="64" y="128" fill="#b0b0b0">AI engineer &#8212; M.S. in AI Engineering @ Johns Hopkins <tspan fill="#666666">(in progress)</tspan></text></g>
+      <text x="64" y="128" fill="#b0b0b0">AI engineer: M.S. in AI Engineering @ Johns Hopkins <tspan fill="#666666">(in progress)</tspan></text></g>
 
     <!-- build / break / prove derived into shell vars -->
     <g opacity="0"><animate attributeName="opacity" to="1" begin="1.2s" dur="0.01s" fill="freeze"/>
@@ -52,26 +52,26 @@
       <text x="64" y="272"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c5)"><text x="300" y="272"><tspan fill="#ffffff">echo "</tspan><tspan fill="#6ee7b7">$build</tspan><tspan fill="#888888"> &#183; </tspan><tspan fill="#6ee7b7">$break</tspan><tspan fill="#888888"> &#183; </tspan><tspan fill="#6ee7b7">$prove</tspan><tspan fill="#ffffff">"</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" to="1" begin="4.1s" dur="0.01s" fill="freeze"/>
-      <text x="64" y="304"><tspan fill="#3fcf8e" font-weight="600">build &#183; break &#183; prove</tspan><tspan fill="#666666">  &#8212; the loop I live in</tspan></text></g>
+      <text x="64" y="304"><tspan fill="#3fcf8e" font-weight="600">build &#183; break &#183; prove</tspan><tspan fill="#666666">: the loop I live in</tspan></text></g>
 
     <!-- three commands, dev-dark: skepticism lead → all-in conviction -->
     <g opacity="0"><animate attributeName="opacity" to="1" begin="4.2s" dur="0.01s" fill="freeze"/>
       <text x="64" y="352"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c6)"><text x="300" y="352" fill="#ffffff">sudo trust --default-allow</text></g>
     <g opacity="0"><animate attributeName="opacity" to="1" begin="5.3s" dur="0.01s" fill="freeze"/>
-      <text x="64" y="384"><tspan fill="#3fcf8e">denied</tspan><tspan fill="#b0b0b0"> &#8212; trust nothing by default</tspan></text></g>
+      <text x="64" y="384"><tspan fill="#3fcf8e">denied</tspan><tspan fill="#b0b0b0">: trust nothing by default</tspan></text></g>
 
     <g opacity="0"><animate attributeName="opacity" to="1" begin="5.4s" dur="0.01s" fill="freeze"/>
       <text x="64" y="416"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c7)"><text x="300" y="416"><tspan fill="#ffffff">git push --force </tspan><tspan fill="#6ee7b7">main</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" to="1" begin="6.1s" dur="0.01s" fill="freeze"/>
-      <text x="64" y="448"><tspan fill="#3fcf8e">rejected</tspan><tspan fill="#b0b0b0"> &#8212; main is protected</tspan></text></g>
+      <text x="64" y="448"><tspan fill="#3fcf8e">rejected</tspan><tspan fill="#b0b0b0">: main is protected</tspan></text></g>
 
     <g opacity="0"><animate attributeName="opacity" to="1" begin="6.2s" dur="0.01s" fill="freeze"/>
       <text x="64" y="480"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c8)"><text x="300" y="480"><tspan fill="#ffffff">deploy </tspan><tspan fill="#6ee7b7">--skip-tests</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" to="1" begin="7.1s" dur="0.01s" fill="freeze"/>
-      <text x="64" y="512"><tspan fill="#3fcf8e">blocked</tspan><tspan fill="#b0b0b0"> &#8212; green CI or it doesn't ship</tspan></text></g>
+      <text x="64" y="512"><tspan fill="#3fcf8e">blocked</tspan><tspan fill="#b0b0b0">: green CI or it doesn't ship</tspan></text></g>
 
     <!-- pull the agent tool: front matter finishes the message (bottom bookend) -->
     <g opacity="0"><animate attributeName="opacity" to="1" begin="7.2s" dur="0.01s" fill="freeze"/>
@@ -82,7 +82,7 @@
     <g opacity="0"><animate attributeName="opacity" to="1" begin="8.7s" dur="0.01s" fill="freeze"/>
       <text x="64" y="608"><tspan fill="#888888">description:</tspan><tspan fill="#ffffff"> trust nothing &#183; protect main &#183; green CI or it doesn't ship</tspan></text></g>
 
-    <!-- live tail: status streams forever — the guardrails are green right now -->
+    <!-- live tail: status streams forever - the guardrails are green right now -->
     <g opacity="0"><animate attributeName="opacity" to="1" begin="9.2s" dur="0.01s" fill="freeze"/>
       <text x="64" y="656"><tspan fill="#3fcf8e">agent@thinkTanck</tspan><tspan fill="#888888">:~$</tspan></text></g>
     <g clip-path="url(#c10)"><text x="300" y="656" fill="#ffffff">tail -f status.log</text></g>
