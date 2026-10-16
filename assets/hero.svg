@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="320" viewBox="0 0 1200 320"
+     role="img" aria-labelledby="title desc">
+  <title id="title">thinkTanck — I build economies for AI agents</title>
+  <desc id="desc">Developer profile hero. thinkTanck is a full-stack builder focused on agent infrastructure: payments, trust, and coordination between AI agents. A terminal card renders the developer as an agent card: mission, give agents an economy; status, shipping; stack, TypeScript, Python, MCP.</desc>
+
+  <defs>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#3fcf8e" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#3fcf8e"/>
+      <stop offset="0.65" stop-color="#6ee7b7"/>
+      <stop offset="1"    stop-color="#6ee7b7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="#0a0a0a" stroke="#222222" stroke-width="2"/>
+
+  <!-- identity block -->
+  <g id="title-block" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif">
+    <!-- personal mark: the Van der Beurze three-purse arms -->
+    <g id="crest" transform="translate(64 57)">
+      <path d="M 0 0 H 24 V 13 Q 24 24 12 30 Q 0 24 0 13 Z"
+            fill="rgba(63,207,142,0.08)" stroke="#3fcf8e" stroke-opacity="0.7" stroke-width="1.5"/>
+      <circle cx="7.5" cy="10" r="2.6" fill="#3fcf8e"/>
+      <circle cx="16.5" cy="10" r="2.6" fill="#3fcf8e"/>
+      <circle cx="12" cy="19" r="2.6" fill="#3fcf8e"/>
+    </g>
+    <text x="102" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="19" letter-spacing="2" fill="#3fcf8e">I BUILD ECONOMIES FOR AI AGENTS</text>
+
+    <text x="60" y="176" font-size="88" font-weight="700" fill="#ffffff" letter-spacing="-2">thinkTanck</text>
+
+    <text x="64" y="228" font-size="24" fill="#b0b0b0">Full-stack builder working on agent infrastructure &#8212;</text>
+    <text x="64" y="262" font-size="24" fill="#b0b0b0">payments, trust, and coordination between AI agents.</text>
+
+    <line x1="64" y1="282" x2="620" y2="282" stroke="#1a1a1a" stroke-width="1.5"/>
+    <line x1="64" y1="282" x2="240" y2="282" stroke="url(#beam)" stroke-width="1.5"/>
+    <text x="64" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="17" fill="#888888">TYPESCRIPT &#183; PYTHON &#183; NEXT.JS &#183; SUPABASE &#183; MCP</text>
+  </g>
+
+  <!-- the developer, rendered as an agent card -->
+  <g id="agent-card">
+    <rect x="680" y="54" width="456" height="212" rx="14" fill="#111111" stroke="#222222" stroke-width="1.5"/>
+    <rect x="681.5" y="55.5" width="453" height="1" fill="#ffffff" opacity="0.05"/>
+    <line x1="680" y1="94" x2="1136" y2="94" stroke="#222222" stroke-width="1.5"/>
+    <text x="704" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="16" fill="#666666">every economy needs agents &#8212; here is one</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
+      <text x="704" y="128"><tspan fill="#3fcf8e">$</tspan><tspan fill="#ffffff"> GET /agents/thinkTanck</tspan></text>
+      <text x="704" y="164" fill="#dddddd">{ "mission": <tspan fill="#3fcf8e">"give agents</tspan></text>
+      <text x="704" y="192"><tspan fill="#3fcf8e">&#160;&#160;&#160;&#160;an economy"</tspan><tspan fill="#dddddd">,</tspan></text>
+      <text x="704" y="220" fill="#dddddd">&#160;&#160;"status": <tspan fill="#ffffff">"shipping"</tspan> }</text>
+    </g>
+    <circle cx="710" cy="244" r="4.5" fill="#3fcf8e"/>
+    <text x="726" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="16" fill="#888888">200 OK &#8212; registered since day one</text>
+  </g>
+</svg>

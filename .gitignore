@@ -1,0 +1,6 @@
+# private working files (never publish to the public profile repo)
+SKILLS-BY-PROJECT.md
+claude/
+*.local
+node_modules/
+.DS_Store
