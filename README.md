@@ -8,10 +8,10 @@
 
 ### 🛠️ Main skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,flask,tailwind,pytorch,tensorflow,supabase,postgres,docker,aws,vercel,selenium,githubactions,git&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, HTML, CSS, Next.js, React, Flask, Tailwind, PyTorch, TensorFlow, Supabase, PostgreSQL, Docker, AWS, Vercel, Selenium, GitHub Actions, Git">
 </p>
-<p align="center">
+<p align="left">
   <img height="42" src="https://img.shields.io/badge/Claude-0a0a0a?style=flat&logo=claude&logoColor=white" alt="Anthropic Claude">
   <img height="42" src="https://img.shields.io/badge/MCP-0a0a0a?style=flat&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)">
   <img height="42" src="https://img.shields.io/badge/OpenRouter-0a0a0a?style=flat&logo=openrouter&logoColor=white" alt="OpenRouter">
@@ -21,10 +21,10 @@
 
 ### 🎓 Studying
 
-<p align="center">
+<p align="left">
   <img height="34" src="https://img.shields.io/badge/M.S.%20AI%20Engineering-Johns%20Hopkins-3fcf8e?style=flat&labelColor=0a0a0a" alt="M.S. in AI Engineering, Johns Hopkins University (in progress)">
 </p>
-<p align="center">
+<p align="left">
   <img height="40" src="https://skillicons.dev/icons?i=aws,azure,ruby&theme=dark" alt="Studying: AWS, Azure, Ruby">
 </p>
 
