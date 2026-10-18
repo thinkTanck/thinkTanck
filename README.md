@@ -1,8 +1,12 @@
 <p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="">
+</p>
+
+<p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Animated terminal session. whoami: AI engineer: M.S. in AI Engineering @ Johns Hopkins (in progress). build, break, and prove are assigned from make/ship, fuzzing prod, and pytest --cov, then echoed as 'build · break · prove: the loop I live in'. Then three risky shortcuts the tooling refuses: sudo trust --default-allow → denied, trust nothing by default; git push --force main → rejected, main is protected; deploy --skip-tests → blocked, green CI or it doesn't ship. Finally cat ~/.claude/agents/default-deny.md prints name: default-deny, description: trust nothing · protect main · green CI or it doesn't ship.">
 </p>
 
-### 🛠️ Tech
+### 🛠️ Main skills
 
 <p align="center">
   <img height="40" src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS">
@@ -28,6 +32,15 @@
   <img height="40" src="https://skillicons.dev/icons?i=githubactions,git&theme=dark" alt="GitHub Actions, Git">
 </p>
 
+### 🎓 Studying
+
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/M.S.%20AI%20Engineering-Johns%20Hopkins-3fcf8e?style=flat&labelColor=0a0a0a" alt="M.S. in AI Engineering, Johns Hopkins University (in progress)">
+</p>
+<p align="center">
+  <img height="40" src="https://skillicons.dev/icons?i=aws,azure,ruby&theme=dark" alt="Studying: AWS, Azure, Ruby">
+</p>
+
 ### 📈 Activity
 
 <p align="center">
@@ -36,4 +49,8 @@
 
 <p align="center">
   <sub>Repositories go public as they stabilize.</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="">
 </p>
