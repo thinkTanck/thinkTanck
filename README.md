@@ -9,27 +9,14 @@
 ### 🛠️ Main skills
 
 <p align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,flask,tailwind,pytorch,tensorflow,supabase,postgres,docker,aws,vercel,selenium,githubactions,git&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, HTML, CSS, Next.js, React, Flask, Tailwind, PyTorch, TensorFlow, Supabase, PostgreSQL, Docker, AWS, Vercel, Selenium, GitHub Actions, Git">
 </p>
 <p align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=nextjs,react,flask,tailwind&theme=dark" alt="Next.js, React, Flask, Tailwind CSS">
-</p>
-<p align="center">
-  <img height="40" src="https://img.shields.io/badge/Claude-0a0a0a?style=flat&logo=claude&logoColor=white" alt="Anthropic Claude">
-  <img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch, TensorFlow">
-  <img height="40" src="https://img.shields.io/badge/MCP-0a0a0a?style=flat&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)">
-  <img height="40" src="https://img.shields.io/badge/OpenRouter-0a0a0a?style=flat&logo=openrouter&logoColor=white" alt="OpenRouter">
-  <img height="40" src="https://img.shields.io/badge/n8n-0a0a0a?style=flat&logo=n8n&logoColor=white" alt="n8n">
-</p>
-<p align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=supabase,postgres,docker,aws,vercel&theme=dark" alt="Supabase, PostgreSQL, Docker, AWS, Vercel">
-</p>
-<p align="center">
-  <img height="40" src="https://img.shields.io/badge/Playwright-0a0a0a?style=flat&logoColor=white" alt="Playwright">
-  <img height="40" src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium">
-</p>
-<p align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=githubactions,git&theme=dark" alt="GitHub Actions, Git">
+  <img height="42" src="https://img.shields.io/badge/Claude-0a0a0a?style=flat&logo=claude&logoColor=white" alt="Anthropic Claude">
+  <img height="42" src="https://img.shields.io/badge/MCP-0a0a0a?style=flat&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)">
+  <img height="42" src="https://img.shields.io/badge/OpenRouter-0a0a0a?style=flat&logo=openrouter&logoColor=white" alt="OpenRouter">
+  <img height="42" src="https://img.shields.io/badge/n8n-0a0a0a?style=flat&logo=n8n&logoColor=white" alt="n8n">
+  <img height="42" src="https://img.shields.io/badge/Playwright-0a0a0a?style=flat&logoColor=white" alt="Playwright">
 </p>
 
 ### 🎓 Studying
